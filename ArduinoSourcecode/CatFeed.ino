@@ -58,12 +58,7 @@ void defineClock(){
   CLOCK_LastTick =millis();
 }
 
-void feedTime(){
-  for(var i=0; i<4; i++){
-    if(TIMERS[i][0]
-    
-  }
-}
+
 
 /**
  * Insere uma mensagem debug no monitor serial
